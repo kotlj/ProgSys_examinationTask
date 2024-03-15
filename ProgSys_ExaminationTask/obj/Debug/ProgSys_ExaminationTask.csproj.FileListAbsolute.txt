@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\ProgSys_ExaminationTask\ProgSys_ExaminationTask\obj\Debug\ProgSys_ExaminationTask.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ProgSys_ExaminationTask\ProgSys_ExaminationTask\obj\Debug\ProgSys_ExaminationTask.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ProgSys_ExaminationTask\ProgSys_ExaminationTask\bin\Debug\ProgSys_ExaminationTask.exe.config
+C:\Users\Admin\source\repos\ProgSys_ExaminationTask\ProgSys_ExaminationTask\bin\Debug\ProgSys_ExaminationTask.exe
+C:\Users\Admin\source\repos\ProgSys_ExaminationTask\ProgSys_ExaminationTask\bin\Debug\ProgSys_ExaminationTask.pdb
+C:\Users\Admin\source\repos\ProgSys_ExaminationTask\ProgSys_ExaminationTask\obj\Debug\ProgSys_ExaminationTask.exe
+C:\Users\Admin\source\repos\ProgSys_ExaminationTask\ProgSys_ExaminationTask\obj\Debug\ProgSys_ExaminationTask.pdb
